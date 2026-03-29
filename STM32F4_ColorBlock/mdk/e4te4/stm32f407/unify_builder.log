@@ -1,0 +1,427 @@
+[2026-02-18 10:41:16]	[info] incremental build: 47 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\cpu_delay\cpu_delay.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\cmsis\device\startup_stm32f40_41xxx.s': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\cmsis\device\system_stm32f4xx.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\misc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_adc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_can.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_cec.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_crc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_cryp.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_cryp_aes.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_cryp_des.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_cryp_tdes.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dac.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dbgmcu.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dcmi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dfsdm.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dma.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dma2d.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dsi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_exti.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_flash.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_flash_ramfunc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_fmpi2c.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_fsmc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_gpio.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash_md5.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash_sha1.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_i2c.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_iwdg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_lptim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_ltdc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_pwr.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_qspi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rcc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rng.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rtc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_sai.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_sdio.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_spdifrx.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_spi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_syscfg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_tim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_usart.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_wwdg.c': object (.o) file not exist
+
+[2026-02-18 10:41:18]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 5: Error:  #5: cannot open source input file "stt7789.h": No such file or directory
+  #include "stt7789.h"
+                      ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-18 10:41:33]	[info] incremental build: 30 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dma.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dma2d.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dsi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_exti.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_flash.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_flash_ramfunc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_fmpi2c.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_fsmc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_gpio.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash_md5.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash_sha1.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_i2c.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_iwdg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_lptim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_ltdc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_pwr.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_qspi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rcc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rng.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rtc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_sai.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_sdio.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_spdifrx.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_spi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_syscfg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_tim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_usart.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_wwdg.c': object (.o) file not exist
+
+[2026-02-18 10:41:34]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 65: Warning:  #223-D: function "st7789_init_display" declared implicitly
+      st7789_init_display();
+      ^
+".\..\driver\st7789\stt7789.c", line 98: Warning:  #159-D: declaration is incompatible with previous "st7789_init_display"  (declared at line 65)
+  static void st7789_init_display(void)
+              ^
+".\..\driver\st7789\stt7789.c", line 214: Error:  #20: identifier "reg" is undefined
+      SPI_SendData(SPI2, reg);
+                         ^
+".\..\driver\st7789\stt7789.c", line 98: Warning:  #177-D: function "st7789_init_display"  was declared but never referenced
+  static void st7789_init_display(void)
+              ^
+.\..\driver\st7789\stt7789.c: 3 warnings, 1 error
+
+[2026-02-18 10:41:55]	[info] incremental build: 23 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_fsmc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_gpio.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash_md5.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash_sha1.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_i2c.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_iwdg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_lptim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_ltdc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_pwr.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_qspi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rcc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rng.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rtc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_sai.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_sdio.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_spdifrx.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_spi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_syscfg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_tim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_usart.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_wwdg.c': object (.o) file not exist
+
+[2026-02-18 10:41:55]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 216: Error:  #20: identifier "reg" is undefined
+      SPI_SendData(SPI2, reg);
+                         ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-18 10:43:53]	[info] incremental build: 16 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_lptim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_ltdc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_pwr.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_qspi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rcc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rng.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rtc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_sai.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_sdio.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_spdifrx.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_spi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_syscfg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_tim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_usart.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_wwdg.c': object (.o) file not exist
+
+[2026-02-18 10:43:54]	[done]
+	build successfully !
+
+[2026-02-18 10:44:02]	[done]
+	build successfully !
+
+[2026-02-18 10:44:31]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c': source file has been changed.
+
+[2026-02-18 10:44:31]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 3: Error:  #5: cannot open source input file "st7789.h": No such file or directory
+  #include "st7789.h"
+                     ^
+.\..\app\main.c: 0 warnings, 1 error
+
+[2026-02-18 10:44:47]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 3: Error:  #5: cannot open source input file "st7789.h": No such file or directory
+  #include "st7789.h"
+                     ^
+.\..\app\main.c: 0 warnings, 1 error
+
+[2026-02-18 10:46:07]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c': source file has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': dependence 'c:\Users\dives\Desktop\STM32F4_ColorBlock\mdk\..\driver\st7789\st7789.h' has been changed.
+
+[2026-02-18 10:46:08]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol st7799_init (referred from main.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 1 error messages.
+
+
+[2026-02-18 10:46:38]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c': source file has been changed.
+
+[2026-02-18 10:46:38]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 3: Error:  #5: cannot open source input file "st7789.h": No such file or directory
+  #include "st7789.h"
+                     ^
+.\..\app\main.c: 0 warnings, 1 error
+
+[2026-02-18 10:47:40]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c': source file has been changed.
+
+[2026-02-18 10:47:40]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 3: Error:  #5: cannot open source input file "st7789.h": No such file or directory
+  #include "st7789.h"
+                     ^
+.\..\app\main.c: 0 warnings, 1 error
+
+[2026-02-18 10:48:42]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c': source file has been changed.
+
+[2026-02-18 10:48:43]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 3: Error:  #5: cannot open source input file "st7789.h": No such file or directory
+  #include "st7789.h"
+                     ^
+.\..\app\main.c: 0 warnings, 1 error
+
+[2026-02-18 10:48:46]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 3: Error:  #5: cannot open source input file "st7789.h": No such file or directory
+  #include "st7789.h"
+                     ^
+.\..\app\main.c: 0 warnings, 1 error
+
+[2026-02-18 10:48:57]	[done]
+	build successfully !
+
+[2026-02-18 10:59:38]	[done]
+	build successfully !
+
+[2026-02-18 11:04:59]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': source file has been changed.
+
+[2026-02-18 11:05:00]	[done]
+	build successfully !
+
+[2026-02-18 11:06:32]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': source file has been changed.
+
+[2026-02-18 11:06:32]	[done]
+	build successfully !
+
+[2026-02-18 11:09:50]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 77: Error:  #20: identifier "SPI_I2S_FLAG_TXR" is undefined
+      while(!SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXR) != RESET); // Wait until transmit buffer is empty
+                                         ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-18 11:10:11]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 77: Error:  #20: identifier "SPI_I2S_FLAG_TXR" is undefined
+      while(!SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXR)= RESET); // Wait until transmit buffer is empty
+                                         ^
+".\..\driver\st7789\stt7789.c", line 77: Error:  #137: expression must be a modifiable lvalue
+      while(!SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXR)= RESET); // Wait until transmit buffer is empty
+            ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 2 errors
+
+[2026-02-18 11:10:33]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 77: Error:  #20: identifier "SPI_I2S_FLAG_TXR" is undefined
+      while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXR)= RESET); // Wait until transmit buffer is empty
+                                        ^
+".\..\driver\st7789\stt7789.c", line 77: Error:  #137: expression must be a modifiable lvalue
+      while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXR)= RESET); // Wait until transmit buffer is empty
+            ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 2 errors
+
+[2026-02-18 11:11:12]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': source file has been changed.
+
+[2026-02-18 11:11:12]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 77: Error:  #20: identifier "SPI_I2S_FLAG_TXR" is undefined
+      while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXR)= RESET); // Wait until transmit buffer is empty
+                                        ^
+".\..\driver\st7789\stt7789.c", line 77: Error:  #137: expression must be a modifiable lvalue
+      while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXR)= RESET); // Wait until transmit buffer is empty
+            ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 2 errors
+
+[2026-02-18 11:12:07]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': source file has been changed.
+
+[2026-02-18 11:12:07]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 77: Error:  #20: identifier "SPI_I2S_FLAG_TXR" is undefined
+      while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXR) == RESET); // Wait until transmit buffer is empty
+                                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-18 11:14:19]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\e4te4\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 77: Error:  #20: identifier "SPI_I2S_FLAG_TXR" is undefined
+      while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXR) == RESET); // Wait until transmit buffer is empty
+                                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-18 11:14:45]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': source file has been changed.
+
+[2026-02-18 11:14:45]	[done]
+	build successfully !
+
+[2026-02-18 11:16:12]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': source file has been changed.
+
+[2026-02-18 11:16:13]	[done]
+	build successfully !
+
+[2026-02-18 11:20:00]	[done]
+	build successfully !
+
+[2026-02-18 11:31:43]	[done]
+	build successfully !
+
+[2026-02-18 17:53:29]	[done]
+	build successfully !
+
+[2026-02-18 19:39:18]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c': source file has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': source file has been changed.
+
+[2026-02-18 19:39:18]	[done]
+	build successfully !
+
+[2026-02-18 19:52:20]	[done]
+	build successfully !
+
+[2026-02-18 19:55:41]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\app\main.c': source file has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': dependence 'c:\Users\dives\Desktop\STM32F4_ColorBlock\mdk\..\driver\st7789\st7789.h' has been changed.
+
+[2026-02-18 19:55:41]	[done]
+	build successfully !
+

@@ -1,0 +1,764 @@
+[2026-02-16 16:22:10]	[info] incremental build: 45 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_SPI\app\main.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\cmsis\device\startup_stm32f40_41xxx.s': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\cmsis\device\system_stm32f4xx.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\misc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_adc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_can.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_cec.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_crc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_cryp.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_cryp_aes.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_cryp_des.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_cryp_tdes.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dac.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dbgmcu.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dcmi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dfsdm.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dma.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dma2d.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dsi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_exti.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_flash.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_flash_ramfunc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_fmpi2c.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_fsmc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_gpio.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_hash.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_hash_md5.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_hash_sha1.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_i2c.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_iwdg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_lptim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_ltdc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_pwr.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_qspi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_rcc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_rng.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_rtc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_sai.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_sdio.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_spdifrx.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_spi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_syscfg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_tim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_usart.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_wwdg.c': object (.o) file not exist
+
+[2026-02-16 16:22:13]	[done]
+	build successfully !
+
+[2026-02-16 18:37:58]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_SPI\app\main.c': source file has been changed.
+
+[2026-02-16 18:37:58]	[done]
+	build successfully !
+
+[2026-02-16 19:22:33]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_SPI\app\main.c': source file has been changed.
+
+[2026-02-16 19:22:33]	[done]
+	build successfully !
+
+[2026-02-16 19:25:04]	[done]
+	build successfully !
+
+[2026-02-16 20:15:39]	[done]
+	build successfully !
+
+[2026-02-16 22:17:23]	[info] incremental build: 45 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_SPI\app\main.c': source file has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\cmsis\device\startup_stm32f40_41xxx.s': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\cmsis\device\system_stm32f4xx.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\misc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_adc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_can.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_cec.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_crc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_cryp.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_cryp_aes.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_cryp_des.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_cryp_tdes.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dac.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dbgmcu.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dcmi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dfsdm.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dma.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dma2d.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_dsi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_exti.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_flash.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_flash_ramfunc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_fmpi2c.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_fsmc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_gpio.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_hash.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_hash_md5.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_hash_sha1.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_i2c.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_iwdg.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_lptim.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_ltdc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_pwr.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_qspi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_rcc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_rng.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_rtc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_sai.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_sdio.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_spdifrx.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_spi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_syscfg.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_tim.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_usart.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_SPI\firmware\driver\src\stm32f4xx_wwdg.c': compiler options has been changed.
+
+[2026-02-16 22:17:26]	[done]
+	build successfully !
+
+[2026-02-16 22:20:02]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_SPI\app\main.c", exit code: 1
+command: 
+  "C:\Users\dives\.eide\tools\armcc_v5_cracked\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 26: Error:  #40: expected an identifier
+  }
+  ^
+".\..\app\main.c", line 26: Error:  #65: expected a ";"
+  }
+  ^
+.\..\app\main.c: 0 warnings, 2 errors
+
+[2026-02-16 22:20:05]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_SPI\app\main.c': source file has been changed.
+
+[2026-02-16 22:20:05]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_SPI\app\main.c", exit code: 1
+command: 
+  "C:\Users\dives\.eide\tools\armcc_v5_cracked\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 26: Error:  #40: expected an identifier
+  }
+  ^
+".\..\app\main.c", line 26: Error:  #65: expected a ";"
+  }
+  ^
+.\..\app\main.c: 0 warnings, 2 errors
+
+[2026-02-16 22:29:12]	[done]
+	build successfully !
+
+[2026-02-16 22:29:48]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_SPI\app\main.c': source file has been changed.
+
+[2026-02-16 22:29:48]	[done]
+	build successfully !
+
+[2026-02-16 22:33:33]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_SPI\app\main.c': source file has been changed.
+
+[2026-02-16 22:33:33]	[done]
+	build successfully !
+
+[2026-02-16 22:33:36]	[done]
+	build successfully !
+
+[2026-02-16 22:36:12]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_SPI\app\main.c", exit code: 1
+command: 
+  "C:\Users\dives\.eide\tools\armcc_v5_cracked\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 41: Error:  #20: identifier "i" is undefined
+  			SPI_SendData(SPI2, i);
+  			                   ^
+.\..\app\main.c: 0 warnings, 1 error
+
+[2026-02-16 22:37:06]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_SPI\app\main.c': source file has been changed.
+
+[2026-02-16 22:37:06]	[done]
+	build successfully !
+
+[2026-02-16 22:37:10]	[done]
+	build successfully !
+
+[2026-02-16 22:39:43]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_SPI\app\main.c': source file has been changed.
+
+[2026-02-16 22:39:43]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_SPI\app\main.c", exit code: 1
+command: 
+  "C:\Users\dives\.eide\tools\armcc_v5_cracked\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 41: Error:  #18: expected a ")"
+  			while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXE);// Wait until transmit buffer is empty
+  			                                                   ^
+".\..\app\main.c", line 43: Error:  #127: expected a statement
+  		}
+  		^
+.\..\app\main.c: 0 warnings, 2 errors
+
+[2026-02-16 22:39:49]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_SPI\app\main.c", exit code: 1
+command: 
+  "C:\Users\dives\.eide\tools\armcc_v5_cracked\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 41: Error:  #18: expected a ")"
+  			while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXE);// Wait until transmit buffer is empty
+  			                                                   ^
+".\..\app\main.c", line 43: Error:  #127: expected a statement
+  		}
+  		^
+.\..\app\main.c: 0 warnings, 2 errors
+
+[2026-02-16 22:39:56]	[done]
+	build successfully !
+
+[2026-02-16 22:41:11]	[done]
+	build successfully !
+
+[2026-02-17 17:44:07]	[done]
+	build successfully !
+
+[2026-02-17 17:45:18]	[done]
+	build successfully !
+
+[2026-02-17 17:49:05]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\cpu_delay\cpu_delay.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': object (.o) file not exist
+
+[2026-02-17 17:49:05]	[done]
+	build successfully !
+
+[2026-02-17 17:51:43]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': source file has been changed.
+
+[2026-02-17 17:51:43]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 18:02:23]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 19:34:40]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 5: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 19:40:45]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 5: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 19:42:30]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 5: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 19:45:40]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 5: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 19:47:47]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 5: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 19:48:41]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': source file has been changed.
+
+[2026-02-17 19:48:41]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 19:49:26]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 19:54:10]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 19:58:50]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 19:59:57]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #11-D: unrecognized preprocessing directive
+  #inlcude "cpu_delay.h"
+   ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #79: expected a type specifier
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Warning:  #260-D: explicit type is missing ("int" assumed)
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #141-D: unnamed prototyped parameters not allowed when body is present
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #130: expected a "{"
+  delay_ms(1+10) cpu_delay(1+10)
+                 ^
+".\..\driver\st7789\stt7789.c", line 29: Warning:  #12-D: parsing restarts here after previous syntax error
+  {
+  ^
+".\..\driver\st7789\stt7789.c", line 92: Warning:  #177-D: function "st7789_init_display"  was declared but never referenced
+  static void st7789_init_display(void)
+              ^
+.\..\driver\st7789\stt7789.c: 3 warnings, 4 errors
+
+[2026-02-17 20:01:05]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #11-D: unrecognized preprocessing directive
+  #inlcude "cpu_delay.h"
+   ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #79: expected a type specifier
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Warning:  #260-D: explicit type is missing ("int" assumed)
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #141-D: unnamed prototyped parameters not allowed when body is present
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #130: expected a "{"
+  delay_ms(1+10) cpu_delay(1+10)
+                 ^
+".\..\driver\st7789\stt7789.c", line 29: Warning:  #12-D: parsing restarts here after previous syntax error
+  {
+  ^
+".\..\driver\st7789\stt7789.c", line 92: Warning:  #177-D: function "st7789_init_display"  was declared but never referenced
+  static void st7789_init_display(void)
+              ^
+.\..\driver\st7789\stt7789.c: 3 warnings, 4 errors
+
+[2026-02-17 20:02:12]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #11-D: unrecognized preprocessing directive
+  #inlcude "cpu_delay.h"
+   ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #79: expected a type specifier
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Warning:  #260-D: explicit type is missing ("int" assumed)
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #141-D: unnamed prototyped parameters not allowed when body is present
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #130: expected a "{"
+  delay_ms(1+10) cpu_delay(1+10)
+                 ^
+".\..\driver\st7789\stt7789.c", line 29: Warning:  #12-D: parsing restarts here after previous syntax error
+  {
+  ^
+".\..\driver\st7789\stt7789.c", line 92: Warning:  #177-D: function "st7789_init_display"  was declared but never referenced
+  static void st7789_init_display(void)
+              ^
+.\..\driver\st7789\stt7789.c: 3 warnings, 4 errors
+
+[2026-02-17 20:02:38]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:04:08]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:04:22]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:05:38]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:05:53]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:06:21]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:10:08]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:11:10]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:13:37]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:14:05]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:14:12]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:14:26]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "../path/to/cpu_delay.h": No such file or directory
+  #include "../path/to/cpu_delay.h"
+                                   ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:14:33]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "../cpu_delay.h": No such file or directory
+  #include "../cpu_delay.h"
+                           ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:14:48]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': source file has been changed.
+
+[2026-02-17 20:14:48]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include <cpu_delay.h>
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:14:59]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 4: Error:  #5: cannot open source input file "cpu_delay.h": No such file or directory
+  #include "cpu_delay.h"
+                        ^
+.\..\driver\st7789\stt7789.c: 0 warnings, 1 error
+
+[2026-02-17 20:25:41]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 26: Error:  #79: expected a type specifier
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Warning:  #260-D: explicit type is missing ("int" assumed)
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #147: declaration is incompatible with "void cpu_delay(uint32_t)"  (declared at line 4 of "../driver/cpu_delay/cpu_delay.h")
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #141-D: unnamed prototyped parameters not allowed when body is present
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #130: expected a "{"
+  delay_ms(1+10) cpu_delay(1+10)
+                 ^
+".\..\driver\st7789\stt7789.c", line 29: Warning:  #12-D: parsing restarts here after previous syntax error
+  {
+  ^
+".\..\driver\st7789\stt7789.c", line 92: Warning:  #177-D: function "st7789_init_display"  was declared but never referenced
+  static void st7789_init_display(void)
+              ^
+.\..\driver\st7789\stt7789.c: 3 warnings, 4 errors
+
+[2026-02-17 20:26:34]	[info] incremental build: 31 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': source file has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dfsdm.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dma.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dma2d.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_dsi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_exti.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_flash.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_flash_ramfunc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_fmpi2c.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_fsmc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_gpio.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash_md5.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash_sha1.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_i2c.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_iwdg.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_lptim.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_ltdc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_pwr.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_qspi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rcc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rng.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rtc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_sai.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_sdio.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_spdifrx.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_spi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_syscfg.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_tim.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_usart.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_wwdg.c': compiler options has been changed.
+
+[2026-02-17 20:26:34]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I.cmsis/include -IRTE/_stm32f407 -I../driver/cpu_delay -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\driver\st7789\stt7789.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\driver\st7789\stt7789.d .\..\driver\st7789\stt7789.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\driver\st7789\stt7789.c", line 26: Error:  #79: expected a type specifier
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Warning:  #260-D: explicit type is missing ("int" assumed)
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #147: declaration is incompatible with "void cpu_delay(uint32_t)"  (declared at line 4 of "../driver/cpu_delay/cpu_delay.h")
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #141-D: unnamed prototyped parameters not allowed when body is present
+  delay_ms(1+10) cpu_delay(1+10)
+  ^
+".\..\driver\st7789\stt7789.c", line 26: Error:  #130: expected a "{"
+  delay_ms(1+10) cpu_delay(1+10)
+                 ^
+".\..\driver\st7789\stt7789.c", line 29: Warning:  #12-D: parsing restarts here after previous syntax error
+  {
+  ^
+".\..\driver\st7789\stt7789.c", line 92: Warning:  #177-D: function "st7789_init_display"  was declared but never referenced
+  static void st7789_init_display(void)
+              ^
+.\..\driver\st7789\stt7789.c: 3 warnings, 4 errors
+
+[2026-02-17 20:26:45]	[info] incremental build: 24 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\driver\st7789\stt7789.c': source file has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_fmpi2c.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_fsmc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_gpio.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash_md5.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_hash_sha1.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_i2c.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_iwdg.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_lptim.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_ltdc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_pwr.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_qspi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rcc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rng.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_rtc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_sai.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_sdio.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_spdifrx.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_spi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_syscfg.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_tim.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_usart.c': compiler options has been changed.
+'c:\Users\dives\Desktop\STM32F4_ColorBlock\firmware\driver\src\stm32f4xx_wwdg.c': compiler options has been changed.
+
+[2026-02-17 20:26:46]	[done]
+	build successfully !
+

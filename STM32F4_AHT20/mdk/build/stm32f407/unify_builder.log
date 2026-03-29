@@ -1,0 +1,158 @@
+[2026-02-15 18:51:13]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_AHT20\app\main.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I../driver/cpu_delay -I../driver/usart -I../driver/eeprom -I../driver/bl24c512 -I../driver/aht20 -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 32: Error:  #525: a dependent statement may not be a declaration
+  					bool result = aht20_read_measurement(&temperature,&humidity);
+  					^
+".\..\app\main.c", line 33: Error:  #20: identifier "result" is undefined
+  					if(result){
+  					   ^
+".\..\app\main.c", line 43: Error:  #65: expected a ";"
+  int fputc(int ch,FILE *f) {
+                            ^
+".\..\app\main.c", line 49: Warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+".\..\app\main.c", line 49: Error: At end of source:  #67: expected a "}"
+.\..\app\main.c: 1 warning, 4 errors
+
+[2026-02-15 18:51:31]	[info] incremental build: 33 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_AHT20\app\main.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dbgmcu.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dcmi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dfsdm.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dma.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dma2d.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dsi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_exti.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_flash.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_flash_ramfunc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_fmpi2c.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_fsmc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_gpio.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_hash.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_hash_md5.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_hash_sha1.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_i2c.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_iwdg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_lptim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_ltdc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_pwr.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_qspi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_rcc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_rng.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_rtc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_sai.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_sdio.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_spdifrx.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_spi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_syscfg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_tim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_usart.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_wwdg.c': object (.o) file not exist
+
+[2026-02-15 18:51:32]	compilation failed at : "c:\Users\dives\Desktop\STM32F4_AHT20\app\main.c", exit code: 1
+command: 
+  "D:\keil5\ARM\ARM_Complier_5.06u7\bin\armcc.exe" -c --apcs=interwork -I../firmware/cmsis/core -I../firmware/cmsis/device -I../firmware/driver/inc -I../driver/cpu_delay -I../driver/usart -I../driver/eeprom -I../driver/bl24c512 -I../driver/aht20 -I.cmsis/include -IRTE/_stm32f407 -D"STM32F40_41xxx" -D"USE_STDPERIPH_DRIVER" -D"HSE_VALUE=8000000" --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O0 --split_sections --gnu --diag_suppress=1 --diag_suppress=1295 -g -o .\build\stm32f407\.obj\__\app\main.o --no_depend_system_headers --depend .\build\stm32f407\.obj\__\app\main.d .\..\app\main.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\app\main.c", line 32: Error:  #525: a dependent statement may not be a declaration
+  					bool result = aht20_read_measurement(&temperature,&humidity);
+  					^
+".\..\app\main.c", line 33: Error:  #20: identifier "result" is undefined
+  					if(result){
+  					   ^
+".\..\app\main.c", line 43: Error:  #65: expected a ";"
+  int fputc(int ch,FILE *f) {
+                            ^
+".\..\app\main.c", line 49: Warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+".\..\app\main.c", line 49: Error: At end of source:  #67: expected a "}"
+.\..\app\main.c: 1 warning, 4 errors
+
+[2026-02-15 18:56:10]	[info] incremental build: 18 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\STM32F4_AHT20\app\main.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_i2c.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_iwdg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_lptim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_ltdc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_pwr.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_qspi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_rcc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_rng.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_rtc.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_sai.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_sdio.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_spdifrx.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_spi.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_syscfg.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_tim.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_usart.c': object (.o) file not exist
+'c:\Users\dives\Desktop\STM32F4_AHT20\firmware\driver\src\stm32f4xx_wwdg.c': object (.o) file not exist
+
+[2026-02-15 18:56:11]	[done]
+	build successfully !
+
+[2026-02-16 18:52:29]	[info] incremental build: 48 source files changed
+These source files will be recompiled
+---
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\app\main.c': source file has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\driver\aht20\aht20.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\driver\cpu_delay\cpu_delay.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\driver\usart\usart.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\cmsis\device\startup_stm32f40_41xxx.s': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\cmsis\device\system_stm32f4xx.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\misc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_adc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_can.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_cec.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_crc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_cryp.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_cryp_aes.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_cryp_des.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_cryp_tdes.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dac.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dbgmcu.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dcmi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dfsdm.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dma.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dma2d.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_dsi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_exti.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_flash.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_flash_ramfunc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_fmpi2c.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_fsmc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_gpio.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_hash.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_hash_md5.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_hash_sha1.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_i2c.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_iwdg.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_lptim.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_ltdc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_pwr.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_qspi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_rcc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_rng.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_rtc.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_sai.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_sdio.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_spdifrx.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_spi.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_syscfg.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_tim.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_usart.c': compiler options has been changed.
+'c:\Users\dives\Desktop\WeatherClcok2025\STM32F4_AHT20\firmware\driver\src\stm32f4xx_wwdg.c': compiler options has been changed.
+
+[2026-02-16 18:52:32]	[done]
+	build successfully !
+
+[2026-02-16 18:53:35]	[done]
+	build successfully !
+
