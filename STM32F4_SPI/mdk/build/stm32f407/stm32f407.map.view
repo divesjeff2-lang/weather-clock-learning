@@ -1,6 +1,0 @@
-tool: AC5
-fileName: 'stm32f407.map'
-elfName: 'stm32f407.axf'
-compilerName: 'ARM Compiler'
-compilerFullName: 'Product: ARM Compiler 5.06'
-compilerPath: 'C:\Users\dives\.eide\tools\armcc_v5_cracked\bin\armcc.exe'

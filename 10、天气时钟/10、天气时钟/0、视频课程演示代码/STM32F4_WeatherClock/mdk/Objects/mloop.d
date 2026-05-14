@@ -1,0 +1,12 @@
+.\objects\mloop.o: ..\app\mloop.c
+.\objects\mloop.o: D:\keil5\ARM\ARM_Complier_5.06u7\Bin\..\include\stdbool.h
+.\objects\mloop.o: D:\keil5\ARM\ARM_Complier_5.06u7\Bin\..\include\stdint.h
+.\objects\mloop.o: D:\keil5\ARM\ARM_Complier_5.06u7\Bin\..\include\stdio.h
+.\objects\mloop.o: D:\keil5\ARM\ARM_Complier_5.06u7\Bin\..\include\string.h
+.\objects\mloop.o: ..\driver\cpu_tick\cpu_tick.h
+.\objects\mloop.o: ..\driver\rtc\rtc.h
+.\objects\mloop.o: ..\driver\aht20\aht20.h
+.\objects\mloop.o: ..\driver\esp_at\esp_at.h
+.\objects\mloop.o: ..\app\weather.h
+.\objects\mloop.o: ..\app\page\page.h
+.\objects\mloop.o: ..\app\app.h

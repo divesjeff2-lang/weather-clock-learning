@@ -1,0 +1,9 @@
+.\objects\wifi.o: ..\app\wifi.c
+.\objects\wifi.o: D:\keil5\ARM\ARM_Complier_5.06u7\Bin\..\include\stdint.h
+.\objects\wifi.o: D:\keil5\ARM\ARM_Complier_5.06u7\Bin\..\include\stdio.h
+.\objects\wifi.o: ..\driver\cpu_tick\cpu_tick.h
+.\objects\wifi.o: ..\driver\esp_at\esp_at.h
+.\objects\wifi.o: D:\keil5\ARM\ARM_Complier_5.06u7\Bin\..\include\stdbool.h
+.\objects\wifi.o: ..\app\page\page.h
+.\objects\wifi.o: ..\driver\rtc\rtc.h
+.\objects\wifi.o: ..\app\app.h
