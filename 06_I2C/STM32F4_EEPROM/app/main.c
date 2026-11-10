@@ -19,7 +19,7 @@ int main(void)
     usart_init();
     bl24c512_init();
     
-    const char default_sn[] = "mhdev_1234567890";
+    const char default_sn[] = "board_1234567890";
     char sn[17];
     if (bl24c512_read(EEPROM_SN_OFFSET, (uint8_t *)sn, 17))
     {
