@@ -1,9 +1,0 @@
-.\objects\main.o: ..\app\main.c
-.\objects\main.o: D:\keil5\ARM\ARM_Complier_5.06u7\Bin\..\include\stdint.h
-.\objects\main.o: D:\keil5\ARM\ARM_Complier_5.06u7\Bin\..\include\stdio.h
-.\objects\main.o: ..\driver\console.h
-.\objects\main.o: ..\driver\tim_delay.h
-.\objects\main.o: ..\third_lib\easylogger\elog.h
-.\objects\main.o: ..\third_lib\easylogger\elog_cfg.h
-.\objects\main.o: D:\keil5\ARM\ARM_Complier_5.06u7\Bin\..\include\stddef.h
-.\objects\main.o: D:\keil5\ARM\ARM_Complier_5.06u7\Bin\..\include\stdbool.h

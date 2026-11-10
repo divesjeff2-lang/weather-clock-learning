@@ -1,0 +1,40 @@
+# Keil MDK 编译产物
+**/mdk/Objects/
+**/mdk/Listings/
+**/mdk/DebugConfig/
+**/mdk/RTE/
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.htm
+*.lnp
+*.dep
+*.iex
+*.bin
+*.hex
+*.xbin
+*.uvguix.*
+*.scvd
+**/generated/
+
+# VS Code / EIDE 本地配置与缓存
+.vscode/
+.eide/
+.cmsis/
+**/mdk/build/
+*.code-workspace
+.clangd
+
+# .NET 编译产物
+**/SerialUpgrader/bin/
+**/SerialUpgrader/obj/
+*.exe
+
+# 系统 / NAS 残留
+@eaDir/
+*@SynoEAStream
+.DS_Store
+Thumbs.db
